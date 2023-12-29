@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/4f50b847d0d078a954055.jpg" alt="SAKURA BOT" width="720">
+<img src= "https://telegra.ph/file/88833525fcc49f9fd4b1c.jpg" alt="CRONOS BOT" width="720">
 </p>
 
 <p align="center">
