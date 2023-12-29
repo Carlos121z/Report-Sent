@@ -1,6 +1,15 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Cronos-𝐁𝐎𝐓+𝐕1.0;MAIS+USADO+DO+BR+✰✰✰;100%+CONFIÁVEL+✰✰✰;✰121-THERI0N-DOMINA✰"> 
 
-# [<img src='https://i.ibb.co/ZTQY1M5/sketch1631563183064.png' />]
+# [<img src='https://i.ibb.co/ZTQY1M5/sketch1631563183064.png' />](https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw)
+
+> **ANDROID**
+> - - [ ] **KALI**
+> - - [x] **TERMUX**  
+
+> **LINUX**
+> - - [ ] **KALI**
+> - - [ ] **UBUNTU**
+#
 
 <h1 align="center">
 <p>
