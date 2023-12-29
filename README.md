@@ -43,7 +43,4 @@ cd /sdcard/Report-Sent
 python report.py
 ```
 
-## Gerar um novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
-```
-sh qrcode.sh
-```
+**© Copyright by Lúcifer 121**
