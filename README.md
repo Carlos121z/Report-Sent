@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="121 THERI0N DOMINA" src="https://img.shields.io/badge/BOT MULTI DEVICE-blue?&style=for-the-badge"></a>
+<a href="#"><img title="121 THERI0N DOMINA" src="https://img.shields.io/badge/121 THERI0N DOMINA-blue?&style=for-the-badge"></a>
 </p>
 
 <p align="center">
