@@ -10,5 +10,5 @@ $ git clone https://github.com/owner-by121/Report-Sent
 $ cd Report-Sent
 
 $ python3 ban.py
-
+```
 para banir via spam mano kkkk
