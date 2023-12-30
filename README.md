@@ -11,10 +11,6 @@
 > - - [ ] **UBUNTU**
 #
 
-<h1 align="center">
-<p>
-<img src= "https://telegra.ph/file/88833525fcc49f9fd4b1c.jpg" alt="CRONOS BOT" width="720">
-</p>
 <p align="center">
 <a href="#"><img title="121 THERI0N DOMINA" src="https://img.shields.io/badge/121 THERI0N DOMINA-blue?&style=for-the-badge"></a>
 </p>
